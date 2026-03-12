@@ -1,4 +1,4 @@
-/*var count=0;
+var count=0;
 document.write("Current Count:"+count+"<br/>");
 while(count<10){
     document.write("Current Count:"+count+"<br/>");
@@ -30,21 +30,20 @@ switch(grade){
     case 'c':document.write("Passed</br>");
     break;
     
-}*/
+}
 
-/*function myFunction(){
+function myFunction(){
     alert("Hello World");
-}*/
-
-/*function sayHello(name,age){
+}
+function sayHello(name,age){
     document.write(name+"is"+age+"years old");
-}*/
-/*var res=mul(12,30);
+}
+var res=mul(12,30);
 function mul(x,y){
     return x*y;
 }
 document.write(res);*/
-/*function add(a,b){
+function add(a,b){
     console.log(a+b);
 }add(10,20);
 
