@@ -35,7 +35,10 @@ switch(grade){
 function myFunction(){
     alert("Hello World");
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> c3be21cd1ee160566994b7ae01a8b8e90d84a74c
 function sayHello(name,age){
     document.write(name+"is"+age+"years old");
 }
@@ -43,7 +46,11 @@ var res=mul(12,30);
 function mul(x,y){
     return x*y;
 }
+<<<<<<< HEAD
 document.write(res);
+=======
+document.write(res);*/
+>>>>>>> c3be21cd1ee160566994b7ae01a8b8e90d84a74c
 function add(a,b){
     console.log(a+b);
 }add(10,20);
